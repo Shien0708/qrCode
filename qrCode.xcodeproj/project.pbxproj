@@ -290,6 +290,7 @@
 				DEVELOPMENT_TEAM = Z4822F8J4X;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = qrCode/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "要求存取相機";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -300,7 +301,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.chris.qrCode;
+				PRODUCT_BUNDLE_IDENTIFIER = com.chris.scanner;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -318,6 +319,7 @@
 				DEVELOPMENT_TEAM = Z4822F8J4X;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = qrCode/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "要求存取相機";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -328,7 +330,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.chris.qrCode;
+				PRODUCT_BUNDLE_IDENTIFIER = com.chris.scanner;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
